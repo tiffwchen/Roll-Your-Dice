@@ -1,0 +1,11 @@
+#diePicture {
+    width: 100px;
+    height: 100px;
+}
+
+div.dieContainer {
+    display: inline-block;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 2px;
+}
